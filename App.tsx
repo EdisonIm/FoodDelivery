@@ -76,9 +76,8 @@ function App(): React.JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits.
+          <Section title="셋팅 개좆밥이구욘^_^">
+            전모씨는 2주동안 한다던뎅^_^?
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
