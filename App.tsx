@@ -76,10 +76,10 @@ function App(): React.JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="셋팅 개좆밥이구욘^_^">
-            전모씨는 2주동안 한다던뎅^_^?
+          <Section title="파파야의 개발이야기">
+            백엔드와 프론트엔드를 극단적인 인간들이 붙잡고 있습니다. 뭐가나올지 궁금하네요 ~_~
           </Section>
-          <Section title="See Your Changes">
+          <Section title="달라진 파파야를 확인하세요~">
             <ReloadInstructions />
           </Section>
           <Section title="Debug">
